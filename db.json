@@ -1,0 +1,22 @@
+{
+  "crafts": [
+    {
+      "id": 0,
+      "title": "Knitted Scarf",
+      "description": "A warm and cozy knitted scarf perfect for winter.",
+      "creator": "Alice",
+      "color": "red",
+      "photo": "src/assets/images/Red.png",
+      "comments": ["So cozy!", "I love the pattern!", "I dont like that color."]
+    },
+    {
+      "id": 1,
+      "title": "Knitted Hat",
+       "description": "A stylish blue knitted hat to keep you warm.",
+      "creator": "Bob",
+      "color": "blue",
+      "photo": "src/assets/images/Blue.png",
+      "comments": ["Looks warm!", "Great color choice."]
+    }
+  ]
+}

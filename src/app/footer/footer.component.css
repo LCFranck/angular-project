@@ -1,0 +1,20 @@
+.footer {
+  background-color: var(--card-bg);
+  padding: 20px;
+  text-align: center;
+  align-self: end;
+}
+
+.text {
+  color: var(--text-color);
+  margin: 0;
+}
+
+a {
+  color: var(--primary-color);
+  text-decoration: none;
+  
+}
+a:hover {
+  text-decoration: underline;
+}

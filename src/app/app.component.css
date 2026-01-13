@@ -3,6 +3,8 @@ body {
     color: var(--text-color); 
     margin: 0; } 
 
+    
+
 
 .header { background-color: var(--card-bg); padding: 20px; 
     display: flex; justify-content: space-between; 
