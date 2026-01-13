@@ -1,11 +1,17 @@
 import { Component } from '@angular/core';
+import { ThemeService } from '../theme.service';
 
 @Component({
   selector: 'app-header',
-  imports: [],
+  standalone: true,
   templateUrl: './header.component.html',
-  styleUrl: './header.component.css'
+  styleUrls: ['./header.component.css']
 })
 export class HeaderComponent {
+  constructor(public themeService: ThemeService) {}
 
+  toggleTheme() {
+    this.themeService.toggleTheme();
+    console.log('Theme toggled to:', this.themeService.getTheme());
+  }
 }
