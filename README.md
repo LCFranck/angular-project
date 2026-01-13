@@ -1,4 +1,4 @@
-#Learning angular project
+# Learning angular project
 
 The purpose of thius project is for me to learn Angular. What i currently have is very minimal with only a footer, header and homepage. Will continue working on it when I have free time.
 
