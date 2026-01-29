@@ -5,4 +5,9 @@
   justify-content: space-between;
   align-items: center;
   color: var(--text-color);
+/*  border: 0.5rem outset pink;
+  outline: 0.5rem solid rgb(240, 140, 222);
+
+  border-radius: 12px;
+   outline-offset: 2.5rem; */
 }

@@ -1,0 +1,21 @@
+<section class="gallery">
+  <h1>Craft Gallery</h1>
+
+  <div class="gallery-grid">
+    <article
+      class="craft-card"
+      *ngFor="let craft of crafts"
+      [routerLink]="['/crafts', craft.id]"
+    >
+      <img
+        [src]="craft.photo"
+        [alt]="craft.title"
+        class="craft-image"
+      />
+
+      <h2>{{ craft.title }}</h2>
+      <p class="creator">By {{ craft.creator }}</p>
+      <p class="description">{{ craft.description }}</p>
+    </article>
+  </div>
+</section>

@@ -1,0 +1,39 @@
+.craft-card{
+    border: 5;
+    border-style: solid;
+    border-width: 5px;
+    border-color: var(--text-color);
+    width: 20%;
+    height: auto;
+    display: flex;
+    
+    flex-direction: column;
+}
+.craft-card:hover{
+    border-color: var(--card-bg);
+    color:  var(--card-bg);
+
+}
+
+.gallery-grid {
+/*     background-color: aquamarine;
+ */ display: flex;
+    padding: 1%;
+    gap: 15px;
+    flex-wrap:  wrap; 
+    align-content: center;
+}
+
+.craft-image{
+    object-fit: cover; 
+    border-color: blueviolet;
+    border-width: 5px;
+
+}
+
+.creator{
+    margin-left: 10px;
+}
+.description{
+    margin-left: 10px;
+}

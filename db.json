@@ -6,17 +6,89 @@
       "description": "A warm and cozy knitted scarf perfect for winter.",
       "creator": "Alice",
       "color": "red",
-      "photo": "src/assets/images/Red.png",
-      "comments": ["So cozy!", "I love the pattern!", "I dont like that color."]
+      "photo": "/images/0.jpg",
+      "comments": ["So cozy!", "I love the pattern!", "I don't like that color."]
     },
     {
       "id": 1,
       "title": "Knitted Hat",
-       "description": "A stylish blue knitted hat to keep you warm.",
+      "description": "A stylish blue knitted hat to keep you warm.",
       "creator": "Bob",
       "color": "blue",
-      "photo": "src/assets/images/Blue.png",
+      "photo": "/images/1.jpeg",
       "comments": ["Looks warm!", "Great color choice."]
+    },
+    {
+      "id": 2,
+      "title": "Woven Basket",
+      "description": "Handmade basket perfect for storing small items.",
+      "creator": "Catherine",
+      "color": "natural",
+      "photo": "/images/2.jpg",
+      "comments": ["Beautiful craftsmanship!", "Very sturdy."]
+    },
+    {
+      "id": 3,
+      "title": "Beaded Necklace",
+      "description": "A colorful beaded necklace to brighten your outfit.",
+      "creator": "Daniel",
+      "color": "multicolor",
+      "photo": "/images/3.jpg",
+      "comments": ["Lovely beads!", "I want one in green too."]
+    },
+    {
+      "id": 4,
+      "title": "Crochet Blanket",
+      "description": "Soft blanket handmade with love, great for chilly nights.",
+      "creator": "Eva",
+      "color": "yellow",
+      "photo": "/images/4.jpg",
+      "comments": ["So soft!", "Perfect for my couch."]
+    },
+    {
+      "id": 5,
+      "title": "Clay Mug",
+      "description": "Handcrafted ceramic mug, perfect for hot drinks.",
+      "creator": "Frank",
+      "color": "brown",
+      "photo": "/images/5.jpg",
+      "comments": ["Holds heat well!", "Nice rustic look."]
+    },
+    {
+      "id": 6,
+      "title": "Embroidery Hoop Art",
+      "description": "Decorative embroidered hoop to hang on walls.",
+      "creator": "Grace",
+      "color": "green",
+      "photo": "/images/6.jpg",
+      "comments": ["Beautiful pattern!", "Brightens up my room."]
+    },
+    {
+      "id": 7,
+      "title": "Knitted Mittens",
+      "description": "Warm mittens to keep your hands cozy in winter.",
+      "creator": "Hannah",
+      "color": "purple",
+      "photo": "/images/7.jpg",
+      "comments": ["Love the color!", "Super comfy."]
+    },
+    {
+      "id": 8,
+      "title": "Wooden Coasters",
+      "description": "Set of handmade wooden coasters, perfect for drinks.",
+      "creator": "Ian",
+      "color": "natural",
+      "photo": "/images/8.jpg",
+      "comments": ["Very practical!", "Nice wood finish."]
+    },
+    {
+      "id": 9,
+      "title": "Macrame Wall Hanging",
+      "description": "Boho macrame wall hanging to decorate your living room.",
+      "creator": "Julia",
+      "color": "cream",
+      "photo": "/images/9.jpg",
+      "comments": ["Looks amazing!", "Adds a cozy vibe."]
     }
   ]
 }
